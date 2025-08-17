@@ -1,0 +1,3 @@
+aiogram==3.10.0
+python-dotenv==1.0.1
+uvloop; sys_platform == "linux" and platform_system != "Windows"
